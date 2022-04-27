@@ -1,0 +1,173 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  margin: 0px;
+}
+
+.linha-decoracao body {
+  margin: 0px;
+}
+
+.container {
+  margin: 53px 14% 0% 14%;
+}
+
+.name {
+  font-size: 38px;
+  font-weight: 900;
+  color: #293651;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  font-size: 24px;
+  /* letter-spacing: 4px;
+  font-weight: 400; */
+}
+
+p {
+  color: #868686;
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 25px;
+}
+
+.greeting {
+  color: #00a78e;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 4px;
+  font-weight: 400;
+}
+
+.role {
+  color: #293651;
+  font-size: 24px;
+  letter-spacing: 4px;
+  font-weight: 400;
+}
+
+.green-button {
+  background-color: #00a78e;
+  color: #fff;
+  border-radius: 5px;
+  border-style: none;
+  padding: 10px;
+  font-size: 14px;
+  height: 44px;
+  width: 200px;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.hero {
+  height: 480px;
+  /* border-radius: 32%; */
+}
+
+.hire-title {
+  text-transform: capitalize;
+  font-size: 38px;
+  font-weight: 600;
+}
+
+.hire-text {
+  font-size: 18px;
+}
+
+.habilidade {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.barra-habilidade {
+}
+
+.divprojects {
+  text-align: center;
+  padding: 53px 14% 0% 14%;
+  height: auto;
+  width: auto;
+  background-color: #eeeeee;
+}
+
+.projects-title {
+  text-align: center;
+  font-size: 38px;
+  font-weight: 600;
+}
+
+.projects {
+  text-align: left;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #dfdede;
+  padding: 35px;
+  display: inline-block;
+  height: 300px;
+  width: 320px;
+  margin: 15px;
+  background-color: #fff;
+}
+
+.project-icons {
+  fill: #293651;
+  height: 100px;
+  width: 100px;
+}
+
+.div-contacts {
+  /* margin: 2% 20% 2% 20%; */
+  /* text-align: center; */
+  display: inline-block;
+  padding: 53px 14% 2% 14%;
+  height: auto;
+  width: 500px;
+  border-radius: 15px;
+  background-color: #00a78e;
+  height: auto;
+}
+
+.contacts-box {
+  /* text-align: left; */
+  /* display: inline-block; */
+  /* margin: 53px 14% 2% 14%; */
+}
+
+.contacts-title {
+  font-size: 38px;
+  font-weight: 600;
+  color: #fff;
+  text-transform: capitalize;
+}
+
+.p-contacts {
+  color: #fff;
+}
+
+.footer {
+  margin: 12%;
+  text-align: center;
+  height: auto;
+}
+
+.socialmedia-icons {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #868686;
+}
+
+.destaque-email {
+  font-size: 38px;
+  color: #293651;
+  font-weight: 600;
+}
