@@ -107,7 +107,7 @@ p {
 }
 
 .projects {
-  text-align: left;
+  /* text-align: left; */
   border-radius: 5px;
   box-shadow: 0 0 10px #dfdede;
   padding: 35px;
@@ -125,9 +125,10 @@ p {
 }
 
 .div-contacts {
-  /* margin: 2% 20% 2% 20%; */
+  margin: 5% auto;  
   /* text-align: center; */
-  display: inline-block;
+  position: relative;
+  /* display: inline-block; */
   padding: 53px 14% 2% 14%;
   height: auto;
   width: 500px;
