@@ -8,14 +8,11 @@ body {
 
 .header {
   height: auto;
+  margin: 53px 14% 0% 14%;
 }
 
 .linha-decoracao body {
   margin: 0px;
-}
-
-.container {
-  margin: 53px 14% 0% 14%;
 }
 
 .name {
@@ -56,6 +53,7 @@ p {
 
 .habilities {
   height: auto;
+  margin: 53px 14% 0% 14%;
 }
 
 .green-button {
