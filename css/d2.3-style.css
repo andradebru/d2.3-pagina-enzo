@@ -29,6 +29,12 @@ h2 {
   font-weight: 400; */
 }
 
+h3 {
+  font-size: 24px;
+  letter-spacing: 4px;
+  font-weight: 400;
+}
+
 p {
   color: #868686;
   font-size: 18px;
@@ -52,6 +58,7 @@ p {
 }
 
 .habilities {
+  text-align: center;
   height: auto;
   margin: 53px 14% 0% 14%;
 }
