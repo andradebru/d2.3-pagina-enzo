@@ -51,6 +51,7 @@ p {
 }
 
 .green-button {
+  text-decoration: none;
   background-color: #00a78e;
   color: #fff;
   border-radius: 5px;
@@ -89,7 +90,8 @@ p {
   font-weight: 400;
 }
 
-.barra-habilidade {
+progress {
+  color: #00a78e;
 }
 
 .divprojects {
