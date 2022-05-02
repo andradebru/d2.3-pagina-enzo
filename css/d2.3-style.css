@@ -92,6 +92,7 @@ p {
   text-transform: capitalize;
   font-size: 38px;
   font-weight: 600;
+  color: #293651;
 }
 
 .hire-text {
@@ -145,21 +146,19 @@ progress {
 
 .div-contacts {
   margin: 5% auto;
-  /* text-align: center; */
+  text-align: center;
   position: relative;
-  /* display: inline-block; */
-  padding: 53px 14% 2% 14%;
+  padding: 2% 5%;
   height: auto;
-  width: 500px;
+  width: 60%;
   border-radius: 15px;
   background-color: #00a78e;
-  height: auto;
 }
 
 .contacts-box {
+  margin: 2% 25px;
   text-align: left;
   /* display: inline-block; */
-  margin: 2%;
 }
 
 .contacts-title {
