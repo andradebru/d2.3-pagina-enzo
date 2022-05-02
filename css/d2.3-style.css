@@ -190,4 +190,10 @@ progress {
   color: #293651;
   font-weight: 400;
   letter-spacing: 4px;
+  margin-bottom: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #868686;
 }
