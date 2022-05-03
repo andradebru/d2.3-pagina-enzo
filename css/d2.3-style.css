@@ -106,7 +106,6 @@ p {
 }
 
 progress {
-  border-radius: 50px;
   border: 0px;
   width: 75%;
   height: 20px;
@@ -173,7 +172,7 @@ progress {
 }
 
 .footer {
-  margin: 12%;
+  margin: 12% 5% 2%;
   text-align: center;
   height: auto;
 }
@@ -185,15 +184,15 @@ progress {
   fill: #293651;
 }
 
-.destaque-email {
+.destaque-contato {
   font-size: 24px;
   color: #293651;
   font-weight: 400;
   letter-spacing: 4px;
-  margin-bottom: 50px;
 }
 
 a {
+  margin-top: 250px;
   text-decoration: none;
   color: #868686;
 }
