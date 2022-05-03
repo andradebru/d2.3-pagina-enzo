@@ -144,20 +144,18 @@ progress {
 }
 
 .div-contacts {
-  margin: 5% auto;
+  margin: 5% auto 50px;
   text-align: center;
   position: relative;
   padding: 2% 5%;
   height: auto;
   width: 60%;
   border-radius: 15px;
-  background-color: #00a78e;
+  background-color: #eeeeee;
 }
 
 .contacts-box {
   margin: 2% 25px;
-  text-align: left;
-  /* display: inline-block; */
 }
 
 .contacts-title {
@@ -172,7 +170,7 @@ progress {
 }
 
 .footer {
-  margin: 12% 5% 2%;
+  margin: 50px auto 25px;
   text-align: center;
   height: auto;
 }
@@ -192,7 +190,7 @@ progress {
 }
 
 a {
-  margin-top: 250px;
+  margin-top: 50px;
   text-decoration: none;
   color: #868686;
 }
