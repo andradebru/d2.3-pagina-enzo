@@ -89,7 +89,7 @@ p {
 }
 
 .title-1 {
-  text-transform: capitalize;
+  text-transform: initial;
   font-size: 38px;
   font-weight: 600;
   color: #293651;
@@ -156,17 +156,6 @@ progress {
 
 .contacts-box {
   margin: 2% 25px;
-}
-
-.contacts-title {
-  font-size: 38px;
-  font-weight: 600;
-  color: #fff;
-  text-transform: capitalize;
-}
-
-.p-contacts {
-  color: #fff;
 }
 
 .footer {
